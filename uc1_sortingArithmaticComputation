@@ -1,0 +1,16 @@
+echo "Enter three numbers";
+ read -r a b c ;
+ 
+echo "$a";
+echo "$b"
+echo "$c";
+
+
+
+
+
+
+
+
+
+
